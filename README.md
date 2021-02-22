@@ -4,6 +4,8 @@ Analogue of sorting-problem in computational geometry.
 
 `ConvexHull(A) = boundary of smallest convex set containing A`
 
+Run Project using Julia and [Pluto](https://github.com/fonsp/Pluto.jl)
+
 ## Jarvis march (Chand & Kapur, 1970)
 This algorithm takes `O(nh)` where `h` is the number of vertices in the convex hull
 
